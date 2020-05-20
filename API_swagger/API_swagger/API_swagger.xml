@@ -1,0 +1,17 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>API_swagger</name>
+    </assembly>
+    <members>
+        <member name="M:API_swagger.Controllers.AlunoController.#ctor">
+            <summary>
+            Busca lista criada em loop for de
+            informações de alunos
+            </summary>
+            <param name="aluno">Informações de aluno</param>
+            <returns>Nome e matrícula do aluno, sendo "Aluno i" 
+            com i representado o ciclo do loop que este aluno foi criado </returns>
+        </member>
+    </members>
+</doc>
